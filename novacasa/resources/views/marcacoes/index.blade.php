@@ -4,11 +4,11 @@
 
 		<section class="content-header">
 			<h1>
-				Adicionar Marcação
+				Listar Marcações
 			</h1>
 			<ol class="breadcrumb">
 				<li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-				<li><a href="#">Adicionar Marcação</a></li>
+				<li><a href="#">Listar marcações</a></li>
 			</ol>
 		</section>
 
@@ -17,9 +17,6 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="box">
-						<div class="box-header with-border">
-							<h3 class="box-title">Bordered Table</h3>
-						</div>
 						<!-- /.box-header -->
 						<div class="box-body">
 							<table class="table table-bordered">
