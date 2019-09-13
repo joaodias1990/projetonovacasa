@@ -26,7 +26,7 @@
             </div>
             <!-- /.box-header -->
             <div class="box-body">
-              <form role="form" method="post" action="{{route('add_marcacao')}}">
+              <form role="form" method="post" action="{{route('adicionar_marcacao')}}">
               	{{ csrf_field() }}
                 <!-- text input -->
                 <div class="form-group">

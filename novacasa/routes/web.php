@@ -22,7 +22,7 @@ Route::get('/marcacoes/add', 'MarcacaoController@create')->name('add_marcacao');
 
 Route::get('/marcacoes/{id}', 'MarcacaoController@show')->name('abrir_marcacao');
 
-Route::post('/marcacoes', 'MarcacaoController@store')->name('add_marcacao');
+Route::post('/marcacoes', 'MarcacaoController@store')->name('adicionar_marcacao');
 
 Route::get('/perfil', 'UserController@profile')->name('profile');
 
